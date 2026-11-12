@@ -1,0 +1,32 @@
+# Python & Virtual Env
+.venv/
+__pycache__/
+*.pyc
+
+# Android & Gradle Build Caches
+.gradle/
+build/
+app/build/
+.idea/
+*.iml
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Large Model Binaries & Archives (>50MB - blocked by GitHub 100MB limit)
+*.litertlm
+*.tflite
+*.onnx
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.tar.bz2
+*.zip
+app/libs/*.aar
+
+# Temporary scratch scripts
+fix_*.py
+step9_*.py
+update_idle_*.py

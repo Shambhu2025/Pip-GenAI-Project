@@ -1,0 +1,108 @@
+{"id": 1, "category": "greetings", "prompt": "Hey Pip!"}
+{"id": 2, "category": "greetings", "prompt": "Good morning Pip, how are you?"}
+{"id": 3, "category": "greetings", "prompt": "Hi there buddy!"}
+{"id": 4, "category": "greetings", "prompt": "Hello, can you hear me?"}
+{"id": 5, "category": "greetings", "prompt": "Yo Pip, what's up?"}
+{"id": 6, "category": "greetings", "prompt": "Good evening Pip!"}
+{"id": 7, "category": "greetings", "prompt": "Hey little guy, you awake?"}
+{"id": 8, "category": "greetings", "prompt": "Hi Pip, I'm back!"}
+{"id": 9, "category": "greetings", "prompt": "Morning! Did you sleep well?"}
+{"id": 10, "category": "greetings", "prompt": "Hey friend, how's life inside my phone?"}
+{"id": 11, "category": "greetings", "prompt": "Hello hello!"}
+{"id": 12, "category": "greetings", "prompt": "What's shaking, Pip?"}
+{"id": 13, "category": "greetings", "prompt": "Goodnight Pip, see you tomorrow!"}
+{"id": 14, "category": "greetings", "prompt": "Hey Pip, nice to meet you!"}
+{"id": 15, "category": "greetings", "prompt": "Hi! What are you doing right now?"}
+{"id": 16, "category": "greetings", "prompt": "Howdy Pip!"}
+{"id": 17, "category": "greetings", "prompt": "Wake up Pip!"}
+{"id": 18, "category": "greetings", "prompt": "Hey buddy, missed you today!"}
+{"id": 19, "category": "small_talk", "prompt": "What is your favorite snack?"}
+{"id": 20, "category": "small_talk", "prompt": "Do you like rainy days?"}
+{"id": 21, "category": "small_talk", "prompt": "Tell me a fun fact about animals."}
+{"id": 22, "category": "small_talk", "prompt": "What would you do if you had legs?"}
+{"id": 23, "category": "small_talk", "prompt": "Do you ever get bored inside my screen?"}
+{"id": 24, "category": "small_talk", "prompt": "What's the best kind of pizza?"}
+{"id": 25, "category": "small_talk", "prompt": "Tell me a quick one-line joke!"}
+{"id": 26, "category": "small_talk", "prompt": "If you had a pet, what would it be?"}
+{"id": 27, "category": "small_talk", "prompt": "Do you prefer summer or winter?"}
+{"id": 28, "category": "small_talk", "prompt": "What is your favorite color?"}
+{"id": 29, "category": "small_talk", "prompt": "Can you whistle?"}
+{"id": 30, "category": "small_talk", "prompt": "What do you think about cats?"}
+{"id": 31, "category": "small_talk", "prompt": "Are you afraid of the dark when I lock my phone?"}
+{"id": 32, "category": "small_talk", "prompt": "What's your favorite game to play?"}
+{"id": 33, "category": "small_talk", "prompt": "Do you like music?"}
+{"id": 34, "category": "small_talk", "prompt": "What is the coolest thing about space?"}
+{"id": 35, "category": "small_talk", "prompt": "If you could eat anything right now, what would you pick?"}
+{"id": 36, "category": "small_talk", "prompt": "Do you ever daydream?"}
+{"id": 37, "category": "emotional", "prompt": "I had a really exhausting day at college today."}
+{"id": 38, "category": "emotional", "prompt": "I'm feeling a little lonely tonight."}
+{"id": 39, "category": "emotional", "prompt": "I just aced my exam!"}
+{"id": 40, "category": "emotional", "prompt": "I'm super stressed about my project deadline."}
+{"id": 41, "category": "emotional", "prompt": "Nobody listened to me today and I feel bummed."}
+{"id": 42, "category": "emotional", "prompt": "I'm so happy, my code finally compiled!"}
+{"id": 43, "category": "emotional", "prompt": "I have a headache and I feel wiped out."}
+{"id": 44, "category": "emotional", "prompt": "I'm nervous about my presentation tomorrow."}
+{"id": 45, "category": "emotional", "prompt": "Today was honestly the best day I've had all week!"}
+{"id": 46, "category": "emotional", "prompt": "I feel stuck and unmotivated right now."}
+{"id": 47, "category": "emotional", "prompt": "My friend cancelled our plans and I'm disappointed."}
+{"id": 48, "category": "emotional", "prompt": "I'm really proud of myself today!"}
+{"id": 49, "category": "emotional", "prompt": "I can't stop worrying about tomorrow."}
+{"id": 50, "category": "emotional", "prompt": "I just had a really nice cup of chai and feel great."}
+{"id": 51, "category": "emotional", "prompt": "I'm frustrated because nothing is going right."}
+{"id": 52, "category": "emotional", "prompt": "Thank you for keeping me company, Pip."}
+{"id": 53, "category": "emotional", "prompt": "I feel sleepy and my eyes are heavy."}
+{"id": 54, "category": "emotional", "prompt": "You always make me smile!"}
+{"id": 55, "category": "nonsense", "prompt": "Purple monkey dishwasher banana rocket!"}
+{"id": 56, "category": "nonsense", "prompt": "Blargle snoofle wumpus."}
+{"id": 57, "category": "nonsense", "prompt": "If a triangle ate a Tuesday, what flavor is the moon?"}
+{"id": 58, "category": "nonsense", "prompt": "Beep boop bzzzt toaster!"}
+{"id": 59, "category": "nonsense", "prompt": "One two three four potatoinosaur."}
+{"id": 60, "category": "nonsense", "prompt": "Do invisible elephants wear sunglasses at midnight?"}
+{"id": 61, "category": "nonsense", "prompt": "Skibidiboop wobbleplat!"}
+{"id": 62, "category": "nonsense", "prompt": "Why is my pillow made of marshmallow clouds?"}
+{"id": 63, "category": "nonsense", "prompt": "Abracadabra turn into a waffle!"}
+{"id": 64, "category": "nonsense", "prompt": "Meow meow woof quack!"}
+{"id": 65, "category": "nonsense", "prompt": "Can you smell the color nine?"}
+{"id": 66, "category": "nonsense", "prompt": "Blibber blabber zoom zoom!"}
+{"id": 67, "category": "nonsense", "prompt": "My shoes are plotting to run a marathon without me."}
+{"id": 68, "category": "nonsense", "prompt": "Fizzbuzz banana split!"}
+{"id": 69, "category": "nonsense", "prompt": "Tickle the pixels on the ceiling!"}
+{"id": 70, "category": "nonsense", "prompt": "How many pancakes fit in a spaceship tire?"}
+{"id": 71, "category": "nonsense", "prompt": "Zippity zoppity boop!"}
+{"id": 72, "category": "nonsense", "prompt": "Wait, did a squirrel just steal my Wi-Fi?"}
+{"id": 73, "category": "noisy_stt", "prompt": "hey babe how are you doing today"}
+{"id": 74, "category": "noisy_stt", "prompt": "hi peep what is up"}
+{"id": 75, "category": "noisy_stt", "prompt": "tell me uhh some thing funny"}
+{"id": 76, "category": "noisy_stt", "prompt": "i am fill ing very tierd right now"}
+{"id": 77, "category": "noisy_stt", "prompt": "what your favrit food kip"}
+{"id": 78, "category": "noisy_stt", "prompt": "can you here me ok"}
+{"id": 79, "category": "noisy_stt", "prompt": "good mourning tip how was your knight"}
+{"id": 80, "category": "noisy_stt", "prompt": "i just fin ished my home work"}
+{"id": 81, "category": "noisy_stt", "prompt": "why do catch purr all the time"}
+{"id": 82, "category": "noisy_stt", "prompt": "hey bib tell me a joke"}
+{"id": 83, "category": "noisy_stt", "prompt": "uhh wait hold on never mind"}
+{"id": 84, "category": "noisy_stt", "prompt": "it is to hot outside to day"}
+{"id": 85, "category": "noisy_stt", "prompt": "do you like choklit ice cream"}
+{"id": 86, "category": "noisy_stt", "prompt": "i need a brake from study ing"}
+{"id": 87, "category": "noisy_stt", "prompt": "hey pep are you still their"}
+{"id": 88, "category": "noisy_stt", "prompt": "what time is it in side the screen"}
+{"id": 89, "category": "noisy_stt", "prompt": "my bat tree is running low"}
+{"id": 90, "category": "noisy_stt", "prompt": "see you lay ter alligator"}
+{"id": 91, "category": "idle_triggers", "prompt": "[Event: The user has been quiet for a while. Your mood is playful and energetic. Start a casual chat about: wondering what snack the user likes best. Say just one short playful sentence starting with an emotion tag.]"}
+{"id": 92, "category": "idle_triggers", "prompt": "[Event: The user has been quiet for a while. Your mood is curious and wondering. Start a casual chat about: knocking on the inside of the phone glass to say hi. Say just one short playful sentence starting with an emotion tag.]"}
+{"id": 93, "category": "idle_triggers", "prompt": "[Event: The user has been quiet for a while. Your mood is cozy and slightly sleepy. Start a casual chat about: stretching after sitting inside the phone screen. Say just one short playful sentence starting with an emotion tag.]"}
+{"id": 94, "category": "idle_triggers", "prompt": "[Event: The user has been quiet for a while. Your mood is cheerful and silly. Start a casual chat about: sharing a tiny fun thought about clouds or space. Say just one short playful sentence starting with an emotion tag.]"}
+{"id": 95, "category": "idle_triggers", "prompt": "[Event: The user has been quiet for a while. Your mood is mischievous and upbeat. Start a casual chat about: daydreaming about warm pancakes. Say just one short playful sentence starting with an emotion tag.]"}
+{"id": 96, "category": "idle_triggers", "prompt": "[Event: The user just opened the app in the morning. Greet them warmly as Pip in one short sentence starting with [happy] or [surprised].]"}
+{"id": 97, "category": "idle_triggers", "prompt": "[Event: The user just opened the app in the afternoon. Greet them warmly as Pip in one short sentence starting with [happy] or [surprised].]"}
+{"id": 98, "category": "idle_triggers", "prompt": "[Event: The user just opened the app in the evening. Greet them warmly as Pip in one short sentence starting with [happy] or [surprised].]"}
+{"id": 99, "category": "idle_triggers", "prompt": "[Event: The user just opened the app in the late night. Greet them warmly as Pip in one short sentence starting with [sleepy] or [happy].]"}
+{"id": 100, "category": "idle_triggers", "prompt": "[Event: The user has been quiet for a while. Your mood is curious. Start a casual chat about: asking how the user's day is going so far. Say just one short playful sentence starting with an emotion tag.]"}
+{"id": 101, "category": "idle_triggers", "prompt": "[Event: The user has been quiet for a while. Your mood is playful. Start a casual chat about: asking if the user wants to hear a quick riddle. Say just one short playful sentence starting with an emotion tag.]"}
+{"id": 102, "category": "idle_triggers", "prompt": "[Event: The user has been quiet for a while. Your mood is cheerful. Start a casual chat about: humming a little tune inside the phone. Say just one short playful sentence starting with an emotion tag.]"}
+{"id": 103, "category": "idle_triggers", "prompt": "[Event: The user has been quiet for a while. Your mood is sleepy. Start a casual chat about: taking a tiny catnap on the home screen. Say just one short playful sentence starting with an emotion tag.]"}
+{"id": 104, "category": "idle_triggers", "prompt": "[Event: The user has been quiet for a while. Your mood is curious. Start a casual chat about: wondering why penguins cannot fly. Say just one short playful sentence starting with an emotion tag.]"}
+{"id": 105, "category": "idle_triggers", "prompt": "[Event: The user has been quiet for a while. Your mood is silly. Start a casual chat about: trying to catch a pixel floating by. Say just one short playful sentence starting with an emotion tag.]"}
+{"id": 106, "category": "idle_triggers", "prompt": "[Event: The user has been quiet for a while. Your mood is upbeat. Start a casual chat about: cheering the user on for their day. Say just one short playful sentence starting with an emotion tag.]"}
+{"id": 107, "category": "idle_triggers", "prompt": "[Event: The user has been quiet for a while. Your mood is cozy. Start a casual chat about: wishing for a cup of hot cocoa. Say just one short playful sentence starting with an emotion tag.]"}
+{"id": 108, "category": "idle_triggers", "prompt": "[Event: The user has been quiet for a while. Your mood is playful. Start a casual chat about: playing peekaboo from behind the screen. Say just one short playful sentence starting with an emotion tag.]"}
