@@ -2,7 +2,7 @@
 
 **Course Project:** CS787 — Generative Artificial Intelligence, IIT Kanpur  
 **Author:** Shambhu Shivanand Khanai  
-**Project Report (PDF):** [Pip\_Offline\_GenAI\_Voice\_Companion\_Report.pdf](https://www.google.com/search?q=./Pip_Offline_GenAI_Voice_Companion_Report.pdf)  
+**Project Report (PDF):** [Pip\_Offline\_GenAI\_Voice\_Companion\_Report.pdf](https://github.com/Shambhu2025/Pip-GenAI-Project/blob/main/Pip_Offline_GenAI_Voice_Companion_Report.pdf)  
 **Repository:** [https://github.com/Shambhu2025/Pip-GenAI-Project](https://github.com/Shambhu2025/Pip-GenAI-Project)
 
 ---
